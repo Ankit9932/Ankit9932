@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ankit9932
 - 👀 I’m interested in contributing to open source project
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning Java and React js
 - 💞️ I’m looking to collaborate on beginners level open source projects just to gain some confidence about it's working
-- 📫 How to reach me - 
+
 
 <!---
 Ankit9932/Ankit9932 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
